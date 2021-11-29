@@ -10,8 +10,8 @@ import { small } from '../responsive'
 
 
 const Image = styled.img`
-    height:120px;
-    width: 180px;
+    height:50px;
+    width: 150px;
     border-radius: 20px;
 `
 export const NavLinks = styled(LinkS)`
